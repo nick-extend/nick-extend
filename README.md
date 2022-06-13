@@ -1,2 +1,2 @@
 ### 👋 Hi, I’m Nick
-- 🔨 I’m currently working as a Staff Engineer on the Offers Team.
+- 🔨 I’m currently working as a Staff Engineer on the ORCA Team.
